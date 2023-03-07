@@ -47,7 +47,6 @@ I am Theyaghu,a CS undergrad and Software Developer.<a><img src="https://img.shi
     <a><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></a>
     <a><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
     <a><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
-    <a><img src=""></a>
     </p>
   <summary><b>&nbsp;&nbsp;💻Workspace Specs</b></summary>
   <p>
