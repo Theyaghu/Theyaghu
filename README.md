@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **Theyaghu/Theyaghu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align=”center”>
+<!-- <p align=”center”>
 <img width=”200" height=”200" src="https://www.canva.com/design/DAFciS-pJNc/xkb0bHPjXayQIdxBC5oh2A/view?utm_content=DAFciS-pJNc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
 </p>
-
+ -->
 ## Hey here <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 
