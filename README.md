@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <!-- <p align=”center”>
-<img width=”200" height=”200" src="https://www.canva.com/design/DAFciS-pJNc/xkb0bHPjXayQIdxBC5oh2A/view?utm_content=DAFciS-pJNc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
-</p>
- -->
+<img width=”200" height=”200" src="https://www.canva.com/design/DAFciS-pJNc/xkb0bHPjXayQIdxBC5oh2A/view?utm_content=DAFciS-pJNc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt=”mybanner”>
+</p> -->
+
 ## Hey here <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 
@@ -35,10 +34,42 @@ I am Theyaghu,a CS undergrad and Software Developer.<a><img src="https://img.shi
 
 
   <summary><b>🛠️&nbsp;&nbsp;Technical Skills&nbsp;and&nbsp;Tools</b></summary>
-    - <p>
-    <a><img src="https://badgen.net/badge//apple/red?icon=apple"></a>
-    <a><img src="https://badgen.net/badge/hello/world/red?icon=twitter"></a>
+  <p>
+    <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+    <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+    <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+    <a><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
+    <a><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
+    <a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+    <a><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+    <a><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a>
+    <a><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
+    <a><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></a>
+    <a><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a><img src=""></a>
+    <a href="https://twitter.com/TSTheyagarajan"><img src="https://badgen.net/badge/hello/world/red?icon=twitter"></a>
     </p>
+  <summary><b>&nbsp;&nbsp;💻Workspace Specs</b></summary>
+  <p>
+   <a><img src="https://img.shields.io/badge/Apple-MacBook_Air_M1-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
+    <a href="https://twitter.com/TSTheyagarajan"><img src="https://badgen.net/badge/hello/world/red?icon=twitter"></a>
+  </p>
+  <summary><b>&nbsp;&nbsp;🎶 Sound</b></summary>
+  <p>
+   <a><img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white"></a>
+    <a><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+  </p>
+  <summary><b>&nbsp;&nbsp;☁ Cloud</b></summary>
+  <p>
+   <a><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"></a>
+  </p>
+    <summary><b>&nbsp;&nbsp;🌐 Web Browsers</b></summary>
+  <p>
+   <a><img src="https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white"></a>
+   <a><img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"></a>
+
+  </p>
 
 
 
