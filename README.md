@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## Hey here <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 
-I am Theyaghu,a CS undergrad and Software Developer.<a><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"></a>
+I am Theyaghu,a CS undergrad and Application Developer love to .<a><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"></a>
 
 
 - 🧑🏻‍💻 I'm currently pursuing 3rd year of B.E CSE at St. Joseph's College of Engineering
