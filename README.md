@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 I am Theyaghu,a CS undergrad and Application Developer love to .<a><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"></a>
 
 
-- 🧑🏻‍💻 I'm currently pursuing 3rd year of B.E CSE at St. Joseph's College of Engineering
+- 🧑🏻‍💻 I'm currently pursuing my final year of B.E CSE at St. Joseph's College of Engineering
 - ⚙️ I use daily:  `.py`, `.html`, `.css`, `.js`, `.java`, `.swift`
 - 🛬 Reach me: Here->[LinkedIn](https://www.linkedin.com/in/theyagarajan-t-s/)
 - 🎼 I’m currently learning React, UI&UXand lil bit of Cloud Computing
